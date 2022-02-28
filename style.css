@@ -1,0 +1,160 @@
+body{
+    font-family: 'Lato', sans-serif;
+    background-color: white;
+}
+
+.container{
+    width: 135 ;
+    margin: auto;
+}
+
+.row{
+    display: flex;
+    flex-wrap: wrap;
+}
+/* Header Section*/
+
+header{
+    padding: 30px 200px;
+    background-color: rgb(54, 143, 121);
+    margin: -10px;
+}
+.header_logo{
+    width: 50px;
+    height: auto;
+}
+.logo-support{
+    color:white;
+    font-size: x-large;
+    margin-top: 15px;
+    
+}
+
+.logo_support{
+    margin-top:20px;
+    color: aliceblue;
+    margin-left: 100px;
+    font-size: 18px;
+
+    
+}
+
+
+.img_wa{
+    height: 650px;
+    width: 340px;
+    margin-left: 120px;
+    margin-top: 60px;
+}
+
+.text{
+  border-width: 5px;
+  width: 400PX;
+  margin-top: 130PX;
+  margin-left: 400PX;
+
+}
+.list{
+    line-height: 1.5cm;
+    font-size: large;
+    text-decoration: none;
+    
+}
+.list a li{
+    text-decoration: none;
+}
+.box_1{
+    width: 575px;
+    padding: 0px 100px;
+    margin-top: 110px;
+    margin-left: 40px;
+    line-height: 25px;
+    text-align: center;
+    background-color: rgb(224, 230, 240);
+}
+.box_1 h1{
+    font-size: 32px;
+}
+.box_2{
+    width: 575px;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-top: 100px;
+    padding-bottom: 0px;
+    margin-top: 110px;
+    margin-left: 40px;
+    background-color: rgb(233, 228, 204);
+}
+.box_1 img{
+    height: 600px;
+    margin: 40px ;
+    
+}
+.box_2 img{
+    height: 400px;
+    margin-left: 100px;
+}
+.last{
+    background-color: blueviolet;
+}
+.box_2 h4{
+    margin-left: 180px;
+    color: rgb(88, 92, 92);
+    font-size: 20px;
+    
+}
+.box_2 h1{
+    margin-left: 120px;
+    font-size: 40px;
+    
+}
+.box_2 p{
+    margin-left: 20px;
+    font-size: 16px;
+}
+.foot{
+    background-color: black;
+    width: 1700px;
+    color: aliceblue;
+    padding: 10px;
+}
+.row1{
+    width: 100px;
+    padding: 50px;
+    margin-left: 200px;
+}
+.row2{
+    width: 100px;
+    padding: 50px;
+    margin-left: 100px;
+}
+.row3{
+    width: 100px;
+    padding: 50px;
+    margin-left: 100px;
+}
+.row4{
+    width: 100px;
+    padding: 50px;
+    margin-left: 100px;
+}
+.row5{
+    background-color: #273443;
+    color: aliceblue;
+    padding: 25px;
+    font-size: 17px;
+}
+.root1{
+    margin-left: 200px;
+    font-size: 20px;
+
+
+
+}
+.root2{
+    margin-left: 800px;
+    font-size: 17px;
+}
+
+
+
